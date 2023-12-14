@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1>👋</h1>
+<h3>Estudio Ingeniería Informática en la Universidad de Jaén</h3>
 
-<!--
-**pablomorillas02/pablomorillas02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pablomorillas02&label=Profile%20views&color=8caaee&style=for-the-badge" alt="pablomorillas02's profile views" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+[![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablomorillas02&includeallcommits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Pablo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablomorillas02&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### Skills
+
+- **Lenguajes**:
+  
+![My Skills](https://skillicons.dev/icons?i=py,java,dart,php,js,html,css,c,cpp)
+  
+- **Frameworks**:
+
+![My Skills](https://skillicons.dev/icons?i=flutter,flask)
+
+- **Más**:
+
+![My Skills](https://skillicons.dev/icons?i=bootstrap,discord,bots,git,docker)
+  
+---
+
+Plantilla hecha por: [Ketan Chowdhury](https://github.com/dexprexxtion)
+
+Última edición: 14/12/2023
