@@ -16,7 +16,7 @@
   
 - **Frameworks**:
 
-![My Skills](https://skillicons.dev/icons?i=flutter,flask)
+![My Skills](https://skillicons.dev/icons?i=flutter,flask,vue)
 
 - **Más**:
 
@@ -26,4 +26,4 @@
 
 Plantilla hecha por: [Ketan Chowdhury](https://github.com/dexprexxtion)
 
-Última edición: 14/12/2023
+Última edición: 1/2/2024
