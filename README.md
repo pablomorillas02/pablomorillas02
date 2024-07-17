@@ -3,7 +3,6 @@
 
 ---
 
-[![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablomorillas02&includeallcommits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Pablo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablomorillas02&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
