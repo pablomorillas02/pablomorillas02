@@ -4,25 +4,9 @@
 ---
 
 [![Pablo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablomorillas02&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### Skills
-
-- **Lenguajes**:
-  
-![My Skills](https://skillicons.dev/icons?i=py,java,dart,php,js,html,css,c,cpp)
-  
-- **Frameworks**:
-
-![My Skills](https://skillicons.dev/icons?i=flutter,flask,vue)
-
-- **Más**:
-
-![My Skills](https://skillicons.dev/icons?i=bootstrap,discord,bots,git,docker)
   
 ---
 
 Plantilla hecha por: [Ketan Chowdhury](https://github.com/dexprexxtion)
 
-Última edición: 1/2/2024
+Última edición: 5/12/2024
